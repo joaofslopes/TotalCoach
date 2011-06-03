@@ -10,5 +10,6 @@ public class TotalCoachApp extends DroidGap {
 		super.loadUrl("file:///android_asset/www/index.html");
 		
 		/* TEST JL */
+		/* TEST JL 2 */
 	}
 }
