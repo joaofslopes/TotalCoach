@@ -11,5 +11,6 @@ public class TotalCoachApp extends DroidGap {
 		
 		/* TEST JL */
 		/* TEST JL 2 */
+		/* TEST JL 3 */
 	}
 }
